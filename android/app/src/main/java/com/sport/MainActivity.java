@@ -1,4 +1,4 @@
-package com.miraclesauer.randomactionvsexercise;
+package com.amazon.randomactionvsexercise;
 
 import com.facebook.react.ReactActivity;
 

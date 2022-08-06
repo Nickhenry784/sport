@@ -159,6 +159,7 @@ export const appStyle = StyleSheet.create({
     color: 'white',
   },
   labelText: {
+    marginTop: 40,
     fontSize: windowWidth > 640 ? 60 : 40,
     color: 'white',
     fontWeight: 'bold',
